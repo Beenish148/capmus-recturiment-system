@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510069166249",
+    "firebase_url": "https://campusapp-f27aa-default-rtdb.firebaseio.com",
+    "project_id": "campusapp-f27aa",
+    "storage_bucket": "campusapp-f27aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510069166249:android:08bd0505fa9a1641c299b8",
+        "android_client_info": {
+          "package_name": "com.campusrsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510069166249-5q2gatt0sch33u3mstig30duf7ae7mmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkK6m-YTWgwVECp0dCb0XcJv21Y5rsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510069166249-5q2gatt0sch33u3mstig30duf7ae7mmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
